@@ -20,7 +20,7 @@ R-tree is a data structure for storing and indexing and efficiently
 looking up non-zero-size spatial objects.
 
 %description -l pl
-Drzewa RTree to struktury danych, s³u¿±ce do przechowywania, indeksowana
+Drzewa RTree to struktury danych, s³u¿±ce do przechowywania, indeksowania
 oraz wydajnego wyszukiwania elementów przestrzennych niezerowej wielko¶ci.
 
 %prep

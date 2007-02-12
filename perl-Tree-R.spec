@@ -2,7 +2,7 @@
 %define		pdir	Tree
 %define		pnam	R
 Summary:	Tree::R - Perl extension for the Rtree data structure and algorithms
-Summary(pl):	Tree::R - rozszerzenie Perla o struktury danych i algorytmy Rtree
+Summary(pl.UTF-8):   Tree::R - rozszerzenie Perla o struktury danych i algorytmy Rtree
 Name:		perl-Tree-R
 Version:	0.05
 Release:	1
@@ -19,10 +19,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 R-tree is a data structure for storing and indexing and efficiently
 looking up non-zero-size spatial objects.
 
-%description -l pl
-Drzewa RTree to struktury danych s≥uø±ce do przechowywania,
-indeksowania oraz wydajnego wyszukiwania elementÛw przestrzennych
-niezerowej wielko∂ci.
+%description -l pl.UTF-8
+Drzewa RTree to struktury danych s≈Çu≈ºƒÖce do przechowywania,
+indeksowania oraz wydajnego wyszukiwania element√≥w przestrzennych
+niezerowej wielko≈õci.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}

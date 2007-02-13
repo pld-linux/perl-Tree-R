@@ -2,7 +2,7 @@
 %define		pdir	Tree
 %define		pnam	R
 Summary:	Tree::R - Perl extension for the Rtree data structure and algorithms
-Summary(pl.UTF-8):   Tree::R - rozszerzenie Perla o struktury danych i algorytmy Rtree
+Summary(pl.UTF-8):	Tree::R - rozszerzenie Perla o struktury danych i algorytmy Rtree
 Name:		perl-Tree-R
 Version:	0.05
 Release:	1

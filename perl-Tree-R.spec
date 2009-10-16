@@ -4,12 +4,12 @@
 Summary:	Tree::R - Perl extension for the Rtree data structure and algorithms
 Summary(pl.UTF-8):	Tree::R - rozszerzenie Perla o struktury danych i algorytmy Rtree
 Name:		perl-Tree-R
-Version:	0.05
-Release:	2
+Version:	0.06
+Release:	1
 License:	Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	e53d8849d7269dfe606e9bdcbb48bf72
+# Source0-md5:	629ae017bb7fefb925b1475f6275f338
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch

@@ -1,6 +1,5 @@
 %define		pdir	Tree
 %define		pnam	R
-%include	/usr/lib/rpm/macros.perl
 Summary:	Tree::R - Perl extension for the Rtree data structure and algorithms
 Summary(pl.UTF-8):	Tree::R - rozszerzenie Perla o struktury danych i algorytmy Rtree
 Name:		perl-Tree-R
